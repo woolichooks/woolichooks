@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woolichooks
-- 👀 I’m interested in finance, art, books, food, new technologies, and sitting in silence. This is just a place my forays into coding (I'm jumping back in)
+- 👀 I’m interested in finance, art, books, food, new technologies, and sitting in silence. This is just a place to track my forays into coding (I'm jumping back in) & other projects
 - 🌱 I’m currently learning: Financial modeling, SQL, people 
 - 📫 How to reach me: Twitter: @woolichooks
 
